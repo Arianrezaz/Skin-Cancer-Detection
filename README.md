@@ -59,8 +59,8 @@ Descriptions were adapted from relevant research literature.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Arianrezaz/skin-cancer-detector.git
-   cd skin-cancer-detector
+   git clone https://github.com/Arianrezaz/skin-cancer-detecton.git
+   cd skin-cancer-detection
    ```
 
 2. Start a local server:
