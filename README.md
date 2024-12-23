@@ -151,7 +151,6 @@ Contributions are welcome! Please feel free to submit a pull request.
 
 ## Contact
 
-**Arian Rezazadeh**  
 Email: [arian.rmn5281@gmail.com](mailto:arian.rmn5281@gmail.com)  
 
 **Project Link**: [Skin Cancer Detector on GitHub](https://github.com/Arianrezaz/skin-cancer-detection)
