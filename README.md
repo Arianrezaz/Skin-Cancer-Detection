@@ -124,13 +124,13 @@ The design code and the step-by-step process used to train and test the model ha
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/homepage.png)
 
-### Image Upload
-![Image Upload](screenshots/image-upload.png)
+### Benign Results
+![Image Upload](screenshots/test1.png)
 
-### Prediction Results
-![Prediction Results](screenshots/prediction-results.png)
+### Malignant Results
+![Prediction Results](screenshots/test2.png)
 
 ---
 
